@@ -51,6 +51,7 @@ npm start --reset-cache
 # or
 yarn start --reset-cache
 ```
+#### `npm run build`
 
 #### `npm test`
 
